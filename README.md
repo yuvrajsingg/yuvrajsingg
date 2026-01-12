@@ -16,7 +16,7 @@
 ## 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-purple?logo=csharp)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
