@@ -61,5 +61,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: *(add later)*
-- Email: *(add later)*
+- LinkedIn:https://www.linkedin.com/in/yuvraj-singh-03384438b/
+- Email: yuvrajsingghh2005@gmail.com
